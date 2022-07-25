@@ -1,0 +1,18 @@
+1. mkdir eganugrahaf
+2. mkdir sekolah && mkdir kerja
+3. cd sekolah
+   touch ijazah.txt
+   nano ijazah.txt
+   cat ijazah.txt
+   touch portfolio.txt
+   nano portfolio.txt
+4. cd ..
+5. cd kerja
+   touch cv.txt
+   nano cv.txt
+   cat nano cv.txt
+6. cd ..
+   mv sekolah/portfolio.txt kerja
+   cd kerja
+   ls kerja
+    
