@@ -10,7 +10,7 @@
 5. cd kerja
    touch cv.txt
    nano cv.txt
-   cat nano cv.txt
+   cat cv.txt
 6. cd ..
    mv sekolah/portfolio.txt kerja
    cd kerja
